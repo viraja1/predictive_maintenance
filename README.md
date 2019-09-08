@@ -28,3 +28,8 @@ Tasks involved for the above 3 predictive maintenance solutions are as follows:-
 * Feature Transformation
 * Model Selection
 * Train and evaluate the model
+
+
+### Getting Started
+Upload CMAPSSData folder and predict.ipynb to jupyter notebook server (both should be in the same directory). 
+Then open predict.ipynb and execute each statement in the notebook.
